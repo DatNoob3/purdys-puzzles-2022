@@ -1,18 +1,9 @@
-# October 2022 Puzzle
+# November 2022 Puzzle
 
-Kang and Kodos are visiting Earth.  They both really love pumpkin PI!
-* On October 1 of this year, they shared 3 pumpkin pies.
-* On October 2 of this year, they shared a single pumpkin pie.
-* On October 3 of this year, they shared 4 more pumpkin pies.
-* On October 4 of this year, they shared another pumpkin pie.
-* On October 5 of this year, they shared 5 pumpkin pies.
-* On October 6 of this year, they were really hungry and ate 9 pumpkin pies.
-* On October 7 of this year, they only had 2 pumpkin pies.
+Thanksgiving is always the 4th Thursday of November.
 
-That makes a whopping 25 pumpkin pies they ate in the first week of October.
+This year it is on November 24.  If we write the full date `MMDDYYYY`it would be `11242022`.  This number has 8 factors.  
 
-A week later, on October 14, they had eaten a total of 68 pies.
+In 2017, Thanksgiving fell on November 23, resulting in `11232017`, which is a prime number.
 
-If they continue the pattern they will have eaten a total of 150 pies on October 31.
-
-On what date will they have eaten a total of 998 pies?
+How many times between the year 2022 and the year 3022 will the date of Thanksgiving be prime?
